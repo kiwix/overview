@@ -1,0 +1,33 @@
+[user]
+        name = <Pseudo>
+        email = <Email>
+[color]
+        ui = auto
+[color.grep]
+        context = blue
+        filename = cyan
+        function = yellow
+        linenumber = red
+        match = green
+        separator = magenta
+[core]
+        whitespace = trailing-space,space-before-tab,tab-in-indent
+[pack]
+        threads = 0
+[diff]
+        renamelimit = 0
+        renames = copies
+        mnemonicprefix = true
+[alias]
+        st = status -sb
+        ci = commit
+        co = checkout
+        br = branch
+        lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ad) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --date-order
+[pull]
+        rebase = true
+[push]
+        default = simple
+[rerere]
+        enabled = true
+        autoupdate = true
