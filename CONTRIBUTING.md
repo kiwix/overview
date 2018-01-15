@@ -12,6 +12,8 @@ Some projects have additional templates or sets of questions for each issue, whi
 
 Issues that span multiple projects or are about coordinating how we work overall are in the [Overview Issue Tracker](https://github.com/kiwix/overview/issues).
 
+To know how to label an issue, have a look to https://help.github.com/articles/about-labels/.
+
 ### Submitting Code and Documentation Changes
 
 We still do not have [project guidelines](./guidelines/project_guidelines.md) for all of the projects hosted in our [GitHub Organization](https://github.com/kiwix), which new repositories should follow during their creation.
