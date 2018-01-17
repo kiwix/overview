@@ -2,7 +2,7 @@
 
 *Tickets -be it bug reports or feature requests- are the basics of any software improvement. The lack of tickets or poorly written ones seriously impair a healthy software development. Like building a house on weak foundations, this should be avoided.*
 
-The ticket you are going to write will be handled by an IT expert who might not know much about your personal context. For this reason, it is really important to be accurate in the way you describe your problem. The more information you can provide about a problem, the better. To be understandable by every one in the coding community, tickets must be in English. Since Kiwix is hosted on github, you will also need to create a github account (a one-step thing). 
+The ticket you are going to write will be handled by an IT expert who might not know much about your personal context. For this reason, it is really important to be accurate in the way you describe your problem. The more information you can provide about a problem, the better. To be understandable by every one in the coding community, tickets must be in English. Since Kiwix is hosted on github, you will also need to create a github account (a one-step thing).
 
 ### Before creating a ticket: a few checks
 
