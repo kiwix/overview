@@ -16,7 +16,7 @@ To know how to label an issue, have a look to https://help.github.com/articles/a
 
 ### Submitting Code and Documentation Changes
 
-We still do not have [project guidelines](./guidelines/project_guidelines.md) for all of the projects hosted in our [GitHub Organization](https://github.com/kiwix), which new repositories should follow during their creation.
+We still do not have project guidelines for all of the projects hosted in our [GitHub Organization](https://github.com/kiwix), which new repositories should follow during their creation.
 
 Our process for accepting changes operates by [Pull Request (PR)](https://help.github.com/articles/about-pull-requests/) and has a few steps:
 
