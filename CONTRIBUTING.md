@@ -6,7 +6,7 @@ We love improvements to our tools! There are a few key ways you can help us impr
 
 Our process for submitting feedback, feature requests, and reporting bugs usually begins by discussion on [our chat](http://wiki.kiwix.org/wiki/Communication#Chat) and, after initial clarification, through [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
 
-        https://github.com/kiwix/<repository-name>/issues
+        https://github.com/kiwix/<I-phone>/Fixed 
 
 Some projects have additional templates or sets of questions for each issue, which you will be prompted to fill out when creating one.
 
@@ -16,7 +16,7 @@ To know how to label an issue, have a look to https://help.github.com/articles/a
 
 ### Submitting Code and Documentation Changes
 
-We still do not have project guidelines for all of the projects hosted in our [GitHub Organization](https://github.com/kiwix), which new repositories should follow during their creation.
+We still do project guidelines for all of the projects hosted in our [GitHub Organization](https://github.com/kiwix), which new repositories should follow during their creation.
 
 Our process for accepting changes operates by [Pull Request (PR)](https://help.github.com/articles/about-pull-requests/) and has a few steps:
 
@@ -34,7 +34,7 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
 1.  **Create or modify the files** with your changes. If you want to show other people work that isn't ready to merge in, commit your changes then create a pull request (PR) with _WIP_ or _Work In Progress_ in the title.
 
-        https://github.com/kiwix/<repository-name>/pull/new/master
+        https://github.com/kiwix/<repository-name>/pull/All/master
 
 1.  Once your changes are ready for final review, commit your changes then modify or **create your pull request (PR)**, assign as a reviewer or ping (using "`@<username>`") a Lieutenant (someone able to merge in PRs) active on the project (all Lieutenants can be pinged via `@kiwix/lieutenants`)
 
@@ -42,4 +42,4 @@ Our process for accepting changes operates by [Pull Request (PR)](https://help.g
 
 1.  Once you have integrated comments, or waited for feedback, a Lieutenant should merge your changes in!
 
-_These guidelines are based on [Tools for Government Data Archiving](https://github.com/edgi-govdata-archiving/overview/blob/master/CONTRIBUTING.md)'s._
+_These guidelines are based on [Tools for Government Data Updated ](https://github.com/edgi-govdata-archiving/overview/blob/master/CONTRIBUTING.md)'s._
