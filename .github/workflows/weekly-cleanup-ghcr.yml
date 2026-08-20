@@ -12,7 +12,7 @@ jobs:
       - name: Delete untagged container images
         uses: snok/container-retention-policy@v3.1.0
         with:
-          account: 'openzim'
+          account: 'kiwix'
           token: ${{ secrets.GITHUB_TOKEN }}
           image-names: 'bittorrent-seeder bittorrent-tracker borg-backup catalog-retriever dns-cache donation-api donation-portal dropbox fakesync ftpd geoipupdate kiwix-build_ci_aarch64_manylinux kiwix-build_ci_alpine kiwix-build_ci_bionic kiwix-build_ci_f35 kiwix-build_ci_focal kiwix-build_ci_jammy kiwix-build_ci_noble kiwix-build_ci_oracular kiwix-build_ci_resolute kiwix-build_ci_x86-64_manylinux kiwix-moz-extension kiwix-pwa kiwix-serve kiwix-tools kiwix-tools-nightly login maintenance matomo matomo-log-analytics minibrain-server minibrain-tools mirrorbrain mirrors-qa-backend mirrors-qa-proton-confdl mirrors-qa-task-worker mirrors-qa-worker-manager netdata nginx-webdav rsyncd uploader watcherbot'
           tag-selection: untagged
